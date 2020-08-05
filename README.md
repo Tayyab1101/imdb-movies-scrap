@@ -9,7 +9,7 @@ https://www.imdb.com/search/title/?year=2000,2000&title_type=feature&sort=moviem
 ### Features:
 
 - You have the choice of selecting a specific time period (between years) i.e. 2004-2008
-- You can specify any number of pages to scrap (At your own risk, because IDM may ban your IP if you scrapped a lot of pages at one time)
+- You can specify any number of pages to scrap (At your own risk, because IMDB may ban your IP if you scrapped a lot of pages at one time)
 - Here is a single movie demo data that you will get
   `[0] => Array ( 
   [name] => The Dark Knight 
