@@ -17,7 +17,7 @@
         <input type="number" name="year_start" placeholder="e.g 2018">
     </label>
     <label
-     for="">From: 
+     for="">To: 
         <input type="number" name="year_end" placeholder="e.g 2020">
     </label>
     <label
